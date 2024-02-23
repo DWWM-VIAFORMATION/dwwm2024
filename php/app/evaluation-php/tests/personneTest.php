@@ -8,7 +8,7 @@ final class personneTest extends TestCase
 {
   
     public function testConstructeur(): void
-    {
+    {  
         $this->expectException(TypeError::class);
         $personne = new Personne();
     }
