@@ -9,6 +9,7 @@ class Personnage
         $this->_prenom = $pPrenom;
         $this->_forceAttaque = $pForceAttaque;
         $this->_pointsDeVie=$pPointsDeVie;
+        error_log("Creation du personnage:$pPrenom-$pForceAttaque-$pPointsDeVie",3,'/var/www/html/s4-objet/logs/log_personnage.log');
     }
 
     public function getPrenom()
