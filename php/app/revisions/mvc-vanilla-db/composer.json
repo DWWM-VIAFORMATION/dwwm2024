@@ -1,0 +1,14 @@
+{
+    "name": "thierry/mvc-vanilla-db",
+    "autoload": {
+        "psr-4": {
+            "app\\entities\\": "src/model/",
+            "app\\controllers\\": "src/controller/"
+        },
+        "files": [
+            "config/constants.php",
+            "config/credentials.php"
+        ]
+    },
+    "require": {}
+}

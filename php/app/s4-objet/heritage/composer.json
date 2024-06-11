@@ -1,0 +1,15 @@
+{
+    "name": "thierry/heritage",
+    "autoload": {
+        "psr-4": {
+            "app\\entity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thierry BRU",
+            "email": "thierry.bru@viaformation.fr"
+        }
+    ],
+    "require": {}
+}

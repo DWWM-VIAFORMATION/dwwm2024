@@ -1,0 +1,15 @@
+{
+    "name": "thierry/cinematheque",
+    "autoload": {
+        "psr-4": {
+            "cinema\\entities\\": "entity/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thierry BRU",
+            "email": "thierry.bru@viaformation.fr"
+        }
+    ],
+    "require": {}
+}

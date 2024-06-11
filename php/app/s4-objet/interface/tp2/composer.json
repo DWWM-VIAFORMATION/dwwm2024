@@ -1,0 +1,15 @@
+{
+    "name": "thierry/tp2",
+    "autoload": {
+        "psr-4": {
+            "app\\bibli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thierry BRU",
+            "email": "thierry-bru@laposte.net"
+        }
+    ],
+    "require": {}
+}

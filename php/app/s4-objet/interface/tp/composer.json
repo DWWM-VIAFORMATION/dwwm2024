@@ -1,0 +1,15 @@
+{
+    "name": "thierry/tp",
+    "autoload": {
+        "psr-4": {
+            "app\\zoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thierry BRU",
+            "email": "thierry.bru@viaformation.fr"
+        }
+    ],
+    "require": {}
+}

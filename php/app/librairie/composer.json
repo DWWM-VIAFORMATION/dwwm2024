@@ -1,0 +1,9 @@
+{
+    "name": "thierry/librairie",
+    "autoload": {
+        "psr-4": {
+            "app\\entities\\": "Entity/"
+        }
+    },
+    "require": {}
+}
